@@ -13,7 +13,7 @@
 <br>
 <div>
 <h2 align="center"> M̸̨̧̫̭̞͖̜̼̔̇̐͛̀͊i̸̢̖͙̦̼̖͈͚̼̒̐̄͒̐͋̎͝ş̵̺̀́̆͆͘͠į̸͕̼̭̗̝͌̓̽n̵̰̲̣̰̿͗f̸̧̧͔̳͔͇̥̗̾̑̔̓́͜ǫ̵̨̞͔̘̹̩͖̮̦̎͑́̄ȑ̸̻ḿ̸̨̖̤̯̹̲̖̹̏͆̈́̚a̴̢̬̰͚̭̮͉̯̐̒̑ͅt̸̢̥͍̀͂̊͋̆̈́̔͒̈́͋į̷̢̯̗̈ǫ̴̫͔̘̝̝̩̭̰̝̅̀̆͐̽̊͌̿͘ǹ̴̢̺͕̄̾̄͊͘̚👤 </h2>
-<img src="https://gifimage.net/wp-content/uploads/2017/09/anime-death-gif-7.gif" align="right" width="266.5px" height="158.5px">
+<img src="https://gifimage.net/wp-content/uploads/2017/09/anime-death-gif-7.gif" align="right" width="225.5px" height="117.5px">
 <li>
 <b>n̸̠̘̦͓̺̄͌͠a̴̟̟̱͗m̴̥̭̣͕̖̭̞̎́͝e̸:</b> x̷̝̠̗̹͊̈́͋̉͂̉ä̶̛̫̫̪̥͙͇͓̣̖̗͕͓͓̼̯́͒̓́́͂̅̾̅̂̑x̷̧̲͍̥̻̼̲̪͕͂͒a̸̞̙̯͇̣̝̭͚͉̭̞̞͇̓̆͌̀̾</li>
 <li>
