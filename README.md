@@ -24,18 +24,16 @@
 <div>
 <h2 align="left">             Q̷̙̙̭͎̣̥̲̮̜̙̫͈̳̗̺̬̋͊͐̊́́̊̓̃̌̊͂ͅu̶̧̨̨͔̹̞͔̦̺̗̤͙̩͙̻̟͓̹̇̋̿̀̑̌͊̈́̚ǐ̸̠̗ţ̷̢̛̣̥̘̗̞̭̹͚́̀͜͜͝͝͝ ̷̙̬̱͕̣̮̬͎̹̪̳̦͇͒̔̾͛͛̏̅̾͆̆̚A̴̻̬̱̘̬̳̱͂̀̾͊͘s̵̞̮̙̳̦̥̲͖͓̥̹̦̦̘̤͊͛̀͜͜k̴̡̛͙̬͖̯͉̥͚͎͓̘̰̱̦̝̏̉͐͂̆̂̎͐̾̉̓̒̄̐͒̅͠ͅȋ̶̧̥͈̺͍̥̤̰̳̥̺͕̝̗̦͆͂n̷͕͍̪̱̖̬͔̗̠̮̭̙͙̣͇̺̩̄͆̈̅͋̌͌́̽̂̚͠ģ̴̲̝̜̹̺̟͍̩̻͕͍͕̣̗͙̌̓ͅ </h2>
 <p>
-<img src="https://i.pinimg.com/originals/15/12/82/1512824f56069fb7dc6a9fcdd1d5b161.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://i.pinimg.com/originals/15/12/82/1512824f56069fb7dc6a9fcdd1d5b161.gif" align="right" width="300.5px" height="135.5px">
 </div>
 <div>
+<br>
 <p align="center"> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br> <img src="https://img.shields.io/badge/python%20-%23F05033.svg?&style=for-the-badge&logo=python&logoColor=black"/> <img src="https://img.shields.io/badge/c%20-%23F05033.svg?&style=for-the-badge&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/linux%20-%23F05033.svg?&style=for-the-badge&logo=linux&logoColor=black"/> <br><br>
 </p>
 </div>
 <br>
 <div>
-<div align="center">
-<img src="https://i.pinimg.com/originals/04/5b/86/045b86de6b07c4f7a58b64d381708458.gif" width="800" heighth="450">
-</div>
 <hr>
 </div>
 </div>
